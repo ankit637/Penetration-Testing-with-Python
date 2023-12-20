@@ -1,0 +1,17 @@
+INSTALLATION
+Download For Windows 
+1. Download zip file and extract it
+2. run .exe requestsui/dist/main.exe
+
+Downloads for linux
+1. git clone https://github.com/ankit637/Penetration-Testing-with-Python.git
+2. cd requestsuit
+3. python main.py
+
+USAGE:
+1. create a account
+2. login with that account
+3. enter the complete url
+
+COMMAND:
+python main.py
